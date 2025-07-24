@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,visualstudio,java,vue,vuejs,intellij+all,windows,macos,netbeans,gradle,groovy,webstorm+all,database,git,gitbook,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,visualstudio,java,vue,vuejs,intellij+all,windows,macos,netbeans,gradle,groovy,webstorm+all,database,git,gitbook,dotenv
 
+### yml ###
+*.yml
+
 ### Database ###
 *.accdb
 *.db
